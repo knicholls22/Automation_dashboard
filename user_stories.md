@@ -9,3 +9,10 @@
 7.	“ “…I want to be know what events are coming up and when in order to judge whether to attend them.
 8.	“ “ … I want to know what is going on in my domain within different regions of the UK (England, NI, Scotland, Wales) in order to understand what users need at a local level. 
 9.	“ “…I want to know the lines a department is taking???
+
+
+# In Scope for MVP
+
+
+
+# Out of Scope for MVP
