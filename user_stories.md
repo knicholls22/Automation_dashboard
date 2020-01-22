@@ -13,7 +13,7 @@
 11. ".." I want to know how innovative statistics are becoming and how many publications are classed as 'experimental' in order to determine the level of innovation at the producer level.
 12. ".." I want to know where there are gaps where users want statistics that do not exist in order to encourage producers to address these gaps.
 13. ".." I want to know which stats are the most used in order to determine what is most useful to users.
-14. ".." I want to know if we are responding to the most talked about topics via casework in order to know whether there is an area we are accidentally ignoring.
+14. ".." I want to know if we are responding to the most talked about topics via casework in order to know whether there is an area we are unintentionally ignoring.
 
 
 
