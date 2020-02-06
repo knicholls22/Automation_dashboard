@@ -27,7 +27,7 @@
 
 
 
-.# Out of scope need ordering 
+# Out of scope need ordering 
 
 # Out of Scope for MVP
 
