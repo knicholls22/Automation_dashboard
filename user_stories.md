@@ -20,9 +20,9 @@
 
 # In Scope for MVP
 
-1.	As a Regulator, I want to know what is being talked about on social media that is related to my domain in order to monitor what is happening within my domain.
-1.	As a Regulator, I want to know what is being talked about within news media that is related to my domain in order to monitor what is happening within my domain.
-1.	As a Regulator, I want to know what is being talked about within parliamentary reports that is related to my domain in order to monitor what is happening within my domain.
+1.	As a Regulator, I want to know what is being talked about on social media that is related to my domain and OSR in order to monitor what is happening within my domain and make sure I haven't missed anything.
+1.	As a Regulator, I want to know what is being talked about within news media that is related to my domain and OSR in order to monitor what is happening within my domain and make sure I haven't missed anything.
+1.	As a Regulator, I want to know what is being talked about within parliamentary reports that are related to my domain and OSR in order to monitor what is happening within my domain and make sure I haven't missed anything.
 4.	“ “… I want to be able to interact with the information via a dashboard or other interactive means in order to keep everything in one place and easily accessible.
 
 
